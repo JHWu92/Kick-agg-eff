@@ -1,5 +1,8 @@
 # customized
-*data/*
+data/*/*
+data/*.csv
+data.zip
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
